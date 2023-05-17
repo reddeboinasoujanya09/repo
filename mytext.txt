@@ -1,0 +1,6 @@
+"hello this is my first session"
+;
+
+exit
+;
+close
